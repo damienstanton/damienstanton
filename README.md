@@ -18,7 +18,7 @@ In lieu of a biography or resumé (if you want that, click [here][1]), this is a
 ## 🤔 Thinking the above is too much to read? TL;DR
 
 So I guess this is my tech thing: 
-- _Systems_ are what I am into, and tools like Swift and Rust make it easier than it has ever been to make _correct, reliable, performant_ systems. Mobile and web apps (and their full stack of supporting infrastructure) that are _enriched_ by ML/AI tech are absolutely my wheelhouse. This includes native as well as hybrid (e.g. React/React Native) systems. I love to own everything from the app code to the SDKs to the ML models to the APIs/persistence.
+- _Systems_ are what I am into, and tools like Swift and Rust make it easier than it has ever been to make _correct, reliable, performant_ systems. Mobile and web apps (and their full stack of supporting infrastructure) that are _enriched_ by ML/AI tech are my wheelhouse. This includes native as well as hybrid e.g. React Native. I love to own everything from the app code to the SDKs to the ML models to the APIs/persistence. I'm opinionated but not particularly zealous about tools.
 
 
 ## 🤝 Want to work together?
