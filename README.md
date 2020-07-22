@@ -1,4 +1,4 @@
-# ✊ Black Lives Matter
+# ✊🏾 Black Lives Matter
 
 ## 👋 Hello, I'm Damien.
 
