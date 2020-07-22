@@ -1,13 +1,10 @@
 # ✊🏾 Black Lives Matter
 
-## 👋 Hello, I'm Damien.
+## 👋 Hello, I'm Damien. I'm a full-stack machine-learning & mobile engineer.
 
+**Just want to see the code?** Okay. Click [here][4].
 
-## I'm a full-stack machine-learning & mobile engineer.
-
-**I just want to see the code!** Okay. Click [here][4].
-
-In lieu of a biography or resumé (if you want that: [here][1]), this is an informal five-point snapshot of my preferences / skills w.r.t. software:
+In lieu of a biography or resumé (if you want that, click [here][1]), this is an informal five-point snapshot of my preferences / skills w.r.t. software:
 
 | | |
 | -| -|
@@ -26,9 +23,11 @@ So I guess this is my tech thing:
 
 ## 🤝 Want to work together?
 
-I'm not currently looking for paid work. However, I am always open to collaborate! I've been blessed to be doing well in this industry for a long time now, and I am happy to give you advice if you want it, especially if you are just starting out. 
+I'm not currently looking for paid work. However, I am always open to collaborate!
 
-DM me [on Twitter][2] or [LinkedIn][1], or send me an [email][3]
+I've been blessed to be doing well in this industry for a long time now. I love to give back where I can and I am happy to give you advice if you want it, especially if you are just starting out. 
+
+DM me [on Twitter][2] or [LinkedIn][1], or send me an [email][3].
 
 
 [1]: https://linkedin.com/in/damienstanton
