@@ -5,6 +5,10 @@
 
 ## I'm a full-stack machine-learning & mobile engineer.
 
+## I just want to see the code
+
+Okay. Click [here][4]
+
 In lieu of a biography or resumé (if you want that: [here][1]), this is an informal five-point snapshot of my preferences / skills w.r.t. software:
 
 | | |
@@ -32,3 +36,4 @@ DM me [on Twitter][2] or [LinkedIn][1], or send me an [email][3]
 [1]: https://linkedin.com/in/damienstanton
 [2]: https://twitter.com/damienstanton
 [3]: mailto:damien@damienstanton.com
+[4]: https://github.com/damienstanton?tab=repositories&q=&type=public&language=
