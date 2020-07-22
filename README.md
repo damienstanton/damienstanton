@@ -15,10 +15,10 @@ In lieu of a biography or resumé (if you want that, click [here][1]), this is a
 | <font size="+2">📱</font>|In early 2020 I shifted to doing almost exclusively mobile work (plus backend/datasci on the side), for both iOS and Android platforms. It's the most fun I've had in a while, and will definitely steer my future work to full-stack projects with mobile as the core client.|
 ||
 
-## 🤔 That was too much to read. TL;DR?
+## 🤔 Thinking the above is too much to read? TL;DR
 
 So I guess this is my tech thing: 
-- Mobile apps (and their full stack of supporting infrastructure) that are empowered by ML/AI tech are absolutely my wheelhouse. This includes native as well as hybrid (e.g. React/React Native) systems. I love to own everything from the app code to the SDKs to the ML models to the APIs/persistence. _Systems_ are what I am into, and tools like Swift and Rust make it easier than it has ever been to make _correct, reliable, performant_ systems.
+- _Systems_ are what I am into, and tools like Swift and Rust make it easier than it has ever been to make _correct, reliable, performant_ systems. Mobile and web apps (and their full stack of supporting infrastructure) that are _enriched_ by ML/AI tech are absolutely my wheelhouse. This includes native as well as hybrid (e.g. React/React Native) systems. I love to own everything from the app code to the SDKs to the ML models to the APIs/persistence.
 
 
 ## 🤝 Want to work together?
