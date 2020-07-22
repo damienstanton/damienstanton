@@ -5,9 +5,7 @@
 
 ## I'm a full-stack machine-learning & mobile engineer.
 
-## I just want to see the code
-
-Okay. Click [here][4]
+**I just want to see the code!** Okay. Click [here][4]
 
 In lieu of a biography or resumé (if you want that: [here][1]), this is an informal five-point snapshot of my preferences / skills w.r.t. software:
 
