@@ -1,6 +1,6 @@
 # ✊🏾 Black Lives Matter
 
-## 👋 Hello, I'm Damien. I'm a full-stack machine-learning & mobile engineer.
+## 👋 Hello, I'm Damien. I'm a full-stack software & machine learning engineer.
 
 **Just want to see the code?** Okay. Click [here][4].
 
