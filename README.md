@@ -23,11 +23,7 @@ So I guess this is my tech thing:
 
 ## 🤝 Want to work together?
 
-I'm not currently looking for paid work. However, I am always open to collaborate!
-
-I've been blessed to be doing well in this industry for a long time now. I love to give back where I can and I am happy to give you advice if you want it, especially if you are just starting out. 
-
-DM me [on Twitter][2] or [LinkedIn][1], or send me an [email][3].
+I am always open to collaborate! DM me [on Twitter][2] or [LinkedIn][1], or send me an [email][3].
 
 
 [1]: https://linkedin.com/in/damienstanton
