@@ -4,6 +4,14 @@
 
 **Just want to see the code?** Okay. Click [here][4].
 
+## In less detail
+
+Mobile and web apps (and their full stack of supporting infrastructure) that are _enriched_ by ML/AI tech are my wheelhouse.
+
+- _Systems_ are what I am into, and tools like Swift and Rust make it easier than it has ever been to make _correct, reliable, performant_ systems.  This includes native as well as hybrid e.g. React Native. I love to own everything from the app code to the SDKs to the ML models to the APIs/persistence. I'm opinionated but not particularly zealous about tools.
+
+## In more detail
+
 In lieu of a biography or resumé (if you want that, click [here][1]), this is an informal five-point snapshot of my preferences / skills w.r.t. software:
 
 | | |
@@ -15,16 +23,9 @@ In lieu of a biography or resumé (if you want that, click [here][1]), this is a
 | <font size="+2">📱</font>|In early 2020 I shifted to doing almost exclusively mobile work (plus backend/datasci on the side), for both iOS and Android platforms. It's the most fun I've had in a while, and will definitely steer my future work to full-stack projects with mobile as the core client.|
 ||
 
-## 🤔 Thinking the above is too much to read? TL;DR
-
-So I guess this is my tech thing: 
-- _Systems_ are what I am into, and tools like Swift and Rust make it easier than it has ever been to make _correct, reliable, performant_ systems. Mobile and web apps (and their full stack of supporting infrastructure) that are _enriched_ by ML/AI tech are my wheelhouse. This includes native as well as hybrid e.g. React Native. I love to own everything from the app code to the SDKs to the ML models to the APIs/persistence. I'm opinionated but not particularly zealous about tools.
-
-
 ## 🤝 Want to work together?
 
 I am always open to collaborate! DM me [on Twitter][2] or [LinkedIn][1], or send me an [email][3].
-
 
 [1]: https://linkedin.com/in/damienstanton
 [2]: https://twitter.com/damienstanton
