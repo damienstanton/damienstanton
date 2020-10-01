@@ -2,7 +2,7 @@
 
 #### 👋 Hello, I'm Damien. I'm a full-stack software & machine learning engineer.
 
-Mobile/web apps, system programming tools, and their full stack of supporting infrastructure that are _enriched by_ or _enable_ ML/AI tech are my wheelhouse. Systems (especially the distributed kind) are what I am into, and tools like Swift and Rust make it easier than it has ever been to make _correct, reliable, performant_ systems.  This includes native as well as hybrid e.g. React Native. I love to own everything from the app code to the SDKs to the ML models to the APIs/persistence. I'm opinionated but not particularly zealous about tools.
+Mobile apps, system programming tools, web services, and their full stack of supporting infrastructure that are _enriched by_ or _enable_ ML/AI tech are my wheelhouse. Whole systems (especially the distributed kind) are what I am into & I love to own everything from the app code to the SDKs to the ML models to the APIs/persistence. I'm opinionated but not particularly zealous about tools; for now I feel most comfortable writing Go, Rust, Swift, and Python.
 
 #### 🤝 Want to work together?
 
