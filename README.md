@@ -1,8 +1,18 @@
 # ✊🏾 Black Lives Matter
 
-#### 👋 Hello, I'm Damien. I'm a full-stack software & machine learning engineer.
+#### 👋 Hello, I'm Damien. I'm a software engineer.
 
-Mobile apps, system programming tools, web services, and their full stack of supporting infrastructure that are _enriched by_ or _enable_ ML/AI tech are my wheelhouse. Whole systems (especially the distributed kind) are what I am into & I love to own everything from the app code to the SDKs to the ML models to the APIs/persistence. I'm opinionated but not particularly zealous about tools; for now I feel most comfortable writing Go, Rust, Swift, and Python.
+I enjoy programming languages and am fairly comfortable in several domains (mobile, distsys, AI/ML modeling, infrastructure).
+
+For added context, here are some neat things I have worked on:
+- A small but effective graph query language
+- A couple distributed fulltext search systems
+- A successful information retrieval (IR) machine learning algorithm
+- Some big-data distributed machine learning workloads on Apache Spark
+- Several distributed streaming graph compute microservices at reasonably large scale (millions of writes per second)
+- A fast and easy to use data collection and aggregation CLI, and lots of infratructure tooling
+- Relatively complex Android and iOS SDKs and supporting test mobile apps
+- A simple but effective React app to visualize complex IoT data
 
 #### 🤝 Want to work together?
 
