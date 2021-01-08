@@ -2,16 +2,24 @@
 
 #### 👋 Hello, I'm Damien. I'm a software engineer.
 
-I enjoy programming languages and am fairly comfortable in several domains (mobile, distsys, AI/ML modeling, infrastructure).
+I enjoy programming languages and am fairly comfortable in several domains (in no particular order):
+- Distributed systems
+- AI/ML modeling & infrastructure
+- Cloud native infrastructure / container orchestration
+- Mobile
+
+Areas I'm less comfortable:
+- I'm fairly skilled at front-end and have worked on Angular and React codebases, but front-end work always goes a bit slow. It's not my expertise.
+- I'd like to learn more about the embedded/realtime space espcially w.r.t. robotics, but I haven't really had the time yet.
 
 For added context, here are some neat things I have worked on:
+- Several big-data distributed machine learning services & analytics reports built on Apache Spark
+- Several distributed streaming graph compute microservices at reasonably large scale @ millions of writes per second
+- Several relatively complex Android and iOS SDKs and their supporting apps
+- A fast and easy to use data collection and aggregation CLI, and several small infrastructure tools
 - A small but effective graph query language
 - A couple distributed fulltext search systems
-- A successful information retrieval (IR) machine learning algorithm
-- Some big-data distributed machine learning workloads on Apache Spark
-- Several distributed streaming graph compute microservices at reasonably large scale (millions of writes per second)
-- A fast and easy to use data collection and aggregation CLI, and lots of infratructure tooling
-- Relatively complex Android and iOS SDKs and supporting test mobile apps
+- A successful novel information retrieval (IR) machine learning algorithm
 - A simple but effective React app to visualize complex IoT data
 
 #### 🤝 Want to work together?
