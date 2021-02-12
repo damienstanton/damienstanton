@@ -9,7 +9,7 @@ I enjoy programming languages and am fairly comfortable in several domains (in n
 - Mobile
 
 Areas I'm less comfortable:
-- I'm fairly skilled at front-end and have worked on Angular and React codebases, but front-end work always goes a bit slow. It's not my expertise.
+- I'm fairly skilled at front-end and have worked on Angular and React codebases, but building UI & UX always goes a bit slow. It's not my expertise.
 - I'd like to learn more about the embedded/realtime space espcially w.r.t. robotics, but I haven't really had the time yet.
 
 For added context, here are some neat things I have worked on:
