@@ -13,16 +13,15 @@ Areas I'm less comfortable:
 - I'd like to learn more about the embedded/realtime space espcially w.r.t. robotics, but I haven't really had the time yet.
 
 For added context, here are some neat things I have worked on:
-- [A big open-source Rust project][5]
-- Several machine-learning services & analytics reports built on Apache Spark
-- Several distributed streaming graph compute microservices, often doing millions of writes per second
-- Several relatively complex Android and iOS SDKs and their supporting apps
-- A fast and easy to use data collection and aggregation CLI, and several small infrastructure tools
-- A small but effective graph query language
-- A couple distributed fulltext search systems
-- A successful novel information retrieval (IR) machine learning algorithm
-- A simple but effective React app to visualize complex IoT data
-
+- Contributed to [a big open-source Rust project][5], migrating the entire Firecracker codebase to Rust 2018
+- Contributed to a small but effective graph query language
+- Contributed to the design of a distributed fulltext search system
+- Built a relatively complex Android and iOS SDK, as well as a few distinct PoC apps built on the SDK
+- Built a fast and easy to use data collection and aggregation CLI, and several small infrastructure tools
+- Built a successful novel information retrieval (IR) machine learning algorithm
+- Built a set of custom components in a larger React app to visualize complex IoT data
+- Built machine-learning services & analytics reports built on Apache Spark
+- Built distributed streaming graph compute microservices
 
 #### 🤝 Want to work together?
 
