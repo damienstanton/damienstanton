@@ -2,31 +2,24 @@
 
 #### 👋 Hello, I'm Damien, and I am a software engineer.
 
-Ecosystems and communities I consider myself a part of:
-- Rust
-- Go
-- Kotlin & Swift (generally anything around mobile, including hybrid apps)
-- Python
-
 I enjoy programming languages and am quite comfortable in a few domains:
 - Distributed systems
 - AI/ML modeling & infrastructure
 - Cloud native infrastructure / container orchestration
 - Mobile
 
-Areas I am less comfortable:
-- I'm _fairly_ skilled at front-end and have worked on Angular and React codebases, but building UI & UX always goes a bit slow. It's not my expertise.
-- I'd like to learn more about the embedded/realtime space espcially w.r.t. robotics, but I haven't really had the time to dive in.
+I think modern approaches and practices can be applied to any programming language or ecosystem. Use the tool that works, as it goes.
 
-For added context, here are some neat things I hve been lucky enough to do recently:
+With that said I am particularly fond of Rust, Go, and Kotlin/Swift. 
+
+Here are some neat things I have been lucky enough to work on:
 - Contributed to [a big open-source Rust project][5], successfully migrating the entire Firecracker codebase to Rust 2018
 - Contributed to the design and scaling of a small but effective graph query language
 - Contributed to the design of a fulltext search system over a distributed DB
 - Built a relatively complex Android and iOS SDK, and helped launch successful products around it
 - Built a successful novel information retrieval (IR) machine learning algorithm
 - Built a mapping layer in React to visualize IoT data
-- Built machine-learning services & analytics reports built on Apache Spark
-- Built a modular analytics codebase, and several infrastructure tools around delivering those ML services in the cloud
+- Built a modular Python3 analytics codebase, and several infrastructure tools around delivering those ML services in the cloud
 
 #### 🤝 Want to work together?
 
