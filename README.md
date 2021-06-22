@@ -1,6 +1,6 @@
 # ✊🏾 Black Lives Matter
 
-#### 👋 Hello, I'm Damien, and I am a software engineer.
+### 👋  Hello, I'm Damien, and I am a software engineer.
 
 I enjoy programming languages and am quite comfortable in a few domains:
 - Distributed systems
@@ -22,7 +22,7 @@ Here are some neat things I have been lucky enough to work on:
 - Maintained and extended cross platform mobile apps (Ionic + React/Angular depending on the team) 
 - Built modular Python and Scala analytics codebases, and several infrastructure tools around delivering those ML services in the cloud
 
-#### 🤝 Want to work together?
+### 🤝  Want to work together?
 
 I am always open to collaborate! DM me [on Twitter][2] or [LinkedIn][1], or send me an [email][3].
 
