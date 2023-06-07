@@ -10,13 +10,13 @@ I enjoy programming languages and am quite comfortable in a few domains:
 
 I think modern approaches and practices can be applied to any programming language or ecosystem. Use the tool that works, as it goes.
 
-With that said I am particularly fond of Rust, Haskell, F#, and Swift. 
+With that said I am particularly fond of Rust, Haskell, F#, Elm, Dart, and Swift. 
 
 Here are some neat things I have been lucky enough to work on:
 - Contributed to [a big open-source Rust project][4], successfully migrating the entire Firecracker codebase to Rust 2018
 - Contributed to the design and scaling of a small but effective graph query language in Go.
 - Contributed to the design of a fulltext search system over a distributed DB (also in Go).
-- Built & maintain a relatively complex Android and iOS SDK, and helped launch successful products around it
+- Built & maintain a relatively complex Android and iOS/macOS/visionOS SDK, and helped launch successful products around it.
 - Built a successful novel information retrieval (IR) machine learning algorithm (Go, again)
 - Built React and Angular frontends... not my area of expertise, but I am learning!
 - Maintained and extended cross platform mobile apps (Angular/Ionic)
