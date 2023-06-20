@@ -1,12 +1,13 @@
 # ✊🏾 Black Lives Matter
 
-### 👋  Hello, I'm Damien, and I am a software engineer. 
+### 👋  Hello, I'm Damien, and I am a research software engineer.
 
-I enjoy programming languages and am quite comfortable in a few domains:
+I enjoy programming languages, the theory underlying them, and am quite comfortable in a few domains:
 - Distributed systems
 - AI/ML modeling & infrastructure
 - Cloud native infrastructure / container orchestration
 - Mobile
+- Embedded
 
 I think modern approaches and practices can be applied to any programming language or ecosystem. Use the tool that works, as it goes.
 
