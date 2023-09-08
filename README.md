@@ -25,9 +25,9 @@ Here are some neat things I have been lucky enough to work on:
 
 ### 🤝  Want to work together?
 
-I am always open to collaborate! DM me [on Twitter][2] or [LinkedIn][1], or send me an [email][3].
+I am always open to collaborate! DM me [on Threads][2] or [LinkedIn][1], or send me an [email][3].
 
 [1]: https://linkedin.com/in/damienstanton
-[2]: https://twitter.com/damienstanton
+[2]: https://www.threads.net/@damien_stanton
 [3]: mailto:damien@damienstanton.com
 [4]: https://firecracker-microvm.github.io/
