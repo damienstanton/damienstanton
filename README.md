@@ -1,4 +1,4 @@
-# ✊🏾 Black Lives Matter
+[![Help children in Gaza](https://img.shields.io/badge/Help%20children%20in%20Gaza-8A2BE2)](https://www.unicef.org/emergencies/children-gaza-need-lifesaving-support)
 
 ### 👋  Hello, I'm Damien, and I am a research software engineer.
 
@@ -25,7 +25,7 @@ Here are some neat things I have been lucky enough to work on:
 
 ### 🤝  Want to work together?
 
-I am always open to collaborate! DM me [on Threads][2] or [LinkedIn][1], or send me an [email][3].
+I am always open to collaborate! Tag me [on Threads][2], send me a message on [LinkedIn][1], or an [email][3].
 
 [1]: https://linkedin.com/in/damienstanton
 [2]: https://www.threads.net/@damien_stanton
